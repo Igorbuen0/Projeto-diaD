@@ -13,14 +13,13 @@ header{
 
    
     background: linear-gradient(359deg, #257267, #00ffd9);
-    padding: 10px 10px 15px 10px;
     text-align: center;
     text-decoration: none;
     border-bottom-left-radius: 10px ;
     border-bottom-right-radius: 10px;
     box-shadow:10px 10px 10px #0000004f ;
     margin-top: 0px;
-    
+    padding-bottom: 10px;
     
 }
 
